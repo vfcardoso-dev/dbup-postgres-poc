@@ -1,0 +1,1 @@
+﻿alter table inventory add teste varchar(10)
